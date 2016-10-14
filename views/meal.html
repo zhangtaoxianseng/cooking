@@ -1,0 +1,30 @@
+<!--食课页面-->
+<div id="meal">
+	<!--头部-->
+	<header class="mealHeader">食课</header>	
+	<!--主题-->
+	<div class="meal_main">		
+		<div  class ="meal_logo" >
+			<div >							
+				<!--提取的轮播的logo图片-->
+				<!--ng-repeat='x in allImg'不能放在上面的div中 否则会为每个图片创建一个div-->
+				<ul>
+					<li ng-repeat='x in imgList' class="meal_index">
+						<a href="#/mealSecond"><img ng-src= "{{x.album_logo}}" ng-click="jumpImg($event)"/></a>
+					</li>
+				</ul>								
+			</div>
+		</div>		
+		<div class="meal_video">
+			<!--获取视频部分数据-->
+			<div class="meal_single" ng-repeat='x in imgList'>
+				<img id ="ding" ng-src="{{x.album_logo}}"/>
+				<a href="#/mealSecond"><img id ="big_pic" ng-src="{{x.image}}"/></a>
+				<h4>{{x.series_name}}</h4>
+				<p>更新至{{x.episode}}集</p>
+				<p>上课人数{{x.play}}</p>
+				<span>{{x.album}}</span>
+			</div>			
+		</div>
+	</div>				  
+</div>

@@ -1,0 +1,21 @@
+#recipeThird{width: 100%;background: #f0ebef;height: 100%;}
+li{list-style: none;}
+.recipe_headimg{width: 100%;height:14.3rem;float: left;background: white;position:relative;}
+.recipe_head_return{position: absolute;top:-0.6rem;left:-0.6rem;margin: 1rem;width: 1rem;height: 1rem;}
+
+.recipe_headimg img{width: 100%;height: 100%;}
+.recipe_head_text{width: 100%;height: 7.12rem;float: left;background: white;}
+.recipe_head_text h3{width: 100%;height: 1.5rem;line-height: 1.5rem;margin:0.3rem 0;padding:0 1rem;font-size: 0.9rem;}
+.recipe_head_li{width: 100%;height: 1rem;}
+.recipe_head_li li{color:gray;height: 100%;float: left;padding: 0 0.3rem;margin-left:0.8rem;border: 1px solid lightgray;border-radius:0.2rem;}
+.recipe_head_text1{color: lightgray;padding:0 1rem;}
+.recipe_head_icon{width: 100%;height: 1.5rem;float: left;line-height: 1.5rem;}
+.recipe_head_icon li{width: 33.33%;float: left;height: 100%;text-align: center;}
+.recipe_main{width: 100%;float: left;margin-top: 0.5rem;background: white;}
+.recipe_nav{width: 100%;height: 2rem;line-height: 2rem;float: left;text-align: center;background: white;float: left;}
+.recipe_nav li{float: left;width: 25%;font-size: 0.8rem;color: #333333;}
+.recipe_list{width: 100%;height: 11.08rem;padding:0 0.6rem;margin-bottom:0.5rem;background: white;float: left;}
+.recipe_list img{width: 100%;height: 9.348rem;float: left;}
+.recipe_list p{width: 100%;height:1.7rem;line-height: 1.8rem;font-size: 0.8rem;float: left;}
+.recipe_list p span:first-child{color: orange;float: left;}
+.recipe_list p span:last-child{color:#434343;float: left;}

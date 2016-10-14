@@ -1,0 +1,25 @@
+<div id="store_banner">
+	<div class="loveheader">
+		<a href="#/store" ng-click="footerShow()"><img src="img/左箭头.png" id="left_top"/></a>
+		<h3>浪漫一夏，我要把爱煲成汤</h3>
+	</div>
+	<div class="love">
+		<div class="shuoming">
+			<h4>好锅煲好汤，简单爱送好礼</h4>
+			<p>凡买一盒汤料套装送霸王花红枣玉竹汤单品汤料包+1.5L紫砂电炖锅，凡买两盒套装送同订单中价格高的套装礼盒</p>
+		</div>
+		<div class="colorH"></div>
+		<div class="imglist">
+			<ul>
+				<li ng-repeat="x in data3">
+					<img ng-src="{{x.backgroundImage}}" alt="" />
+					<div class="allP">
+						<p>{{x.name}}</p>
+						<p class="sell">已售：<span>{{x.sales}}</span>  包邮</p>
+						<p><span class="span1">￥{{x.price}}</span>  <span class="span2">原价：{{x.streetPrice}}</span></p>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

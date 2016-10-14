@@ -1,0 +1,75 @@
+ <!--二级页面-->
+    <div class="community_second">
+    	<div class="community_second_head">
+    		<p class="second_head_l"><a href="#/community" ng-click="footerShow()"><img src="../img/jiantou.png"/></a></p>
+    		<p class="second_head_c">作品详情</p>
+    	</div>
+    	<div class="community_second_main">
+    		<div class="community_second_mbanner">
+    			<img src="{{community_banner}}"/>
+    		</div>
+    		<div class="community_second_mtext">
+    			<div class="second_mtext" ng-repeat="x in community_scontent">
+    				<p>{{x}}</p>
+    			</div>
+    			<div class="second_name">
+    				<p class="second_name_p"><img src="{{data.head_img}}" alt="" /></p>
+    				<div class="second_header">
+    					<span>{{data.nick}}</span>
+    					<span>{{data.create_time}}</span>
+    				</div>
+    				<div class="second_attention">
+    					关注
+    				</div>
+    			</div>
+    		</div>
+    		<div class="community_second_mtext2">
+    			<div class="second_mtext2_zan">
+					<p>
+						<span>{{data.like.length}}</span>
+						<span>位厨友觉得很赞</span>
+						<span><img src="../img/zan.png" alt="" /></span>
+					</p>    				
+    			</div>
+    			<div class="second_mtext2_head">
+    				<div class="second_mtext2_headimg" >	
+    					<img src="{{x.head_img}}" alt="" ng-repeat="x in data.like"/>
+    				</div>		
+    				<div class="second_mtext2_head_r">></div>
+    			</div>
+    			
+    			<div class="second_mtext2_content">
+    				<div class="second_mtext2_cont">
+    					<span>更多</span><span>元气早餐</span><span>的作品</span>
+    				</div>
+    				<div class="second_mtext2_contents">
+    					<div class="community_cont_list">
+    						<div class="community_cont_figure2" ng-repeat="x in data.relates">
+    							<img src="{{x.image}}" alt="" />
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    		<div class="second_comment">
+    			<div class="second_comment_me">
+    				<p class="comment_length"><span>{{data.comment.length}}</span><span>条点评</span></p>
+    				<p class="everyone_comment">我也说两句</p>
+    			</div>
+    			<div class="second_comment_everyone">
+    				<div class="second_comment_list" ng-repeat="x in data.comment">
+    					<div class="second_comment_left">
+    						<img src="{{x.head_img}}" alt="" />
+    					</div>
+    					<div class="second_comment_center">
+    						<p>{{x.nick}}</p>
+    						<p>{{x.content}}</p>
+    					</div>
+    					<div class="second_comment_right">
+    						{{x.create_time}}
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+   </div>

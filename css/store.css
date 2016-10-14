@@ -1,0 +1,100 @@
+#store{width: 100%;height: 100%;}
+.store_header{
+	width:100%;
+	height: 10%;
+	text-align: center;
+	line-height: 2.2rem;
+	color:#313031;
+}
+.store_main{
+	width: 100%;
+	height: 90%;
+	overflow: scroll;
+}
+.store_main banner{
+	width: 100%;
+	height: 6rem;
+	
+}
+.store_main banner img{
+	width: 100%;
+	height: 6rem;
+}
+.scrollbanner{
+	width: 100%;
+	height: 5rem;
+	overflow-x: scroll;
+	margin: 0.2rem 0 0.2rem 0;
+}
+.scrollbanner ul{
+	width: 300%;
+	height: 5rem;
+}
+.scrollbanner li{
+	width: 16%;
+	margin:0 0.3% 0 0.3%;
+	float: left;
+}
+.scrollbanner img{
+	width: 100%;
+	height: 5rem;
+}
+.hot{
+	width: 100%;
+	height: 2rem;
+	line-height: 2rem;
+	background: #E5E5E5;
+}
+.hot p{
+	margin-left: 0.2rem;
+}
+
+.imglist{
+	width:100%;
+}
+.imglist li:nth-child(2n+1){
+	width:8.15rem;
+	height: 10rem;
+	background: #E5E5E5;
+	float: left;
+}
+.imglist li:nth-child(2n){
+	width:7.85rem;
+	height: 10rem;
+	float: left;
+	background: #E5E5E5;
+}
+.imglist img{
+	width: 7.85rem;
+	height: 6rem;
+}
+.allP {
+	width:7.85rem;
+	height: 3.8rem;
+	background: #fff;
+	
+}
+.allP p:first-child{
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	overflow: hidden;
+	font-size: 9px;
+	font-family: "微软雅黑";
+	color:#424542;
+}
+.allP p:nth-child(2){
+	font-size: 9px;
+	color:#cecbce;
+}
+.span1{
+	color:red;
+	font-family: "微软雅黑";
+	font-size: 9px;
+}
+.span2{
+	font-family: "微软雅黑";
+	font-size: 8px;
+	color:#8c8e8c;
+	text-decoration:line-through;
+}

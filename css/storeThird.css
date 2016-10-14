@@ -1,0 +1,118 @@
+#pay{
+	width:100%;
+	height: 100%;
+	background: #f8f8f8;
+}
+.indent_header{
+	background: #FFFFFF;
+	width:100%;
+	height: 2rem;
+	text-align: center;
+	line-height: 2rem;
+	border-bottom:1px solid #E5E5E5;
+}
+.indent_header img{
+	width:1rem;
+	height: 1rem;
+	float: left;
+	margin-top: 0.5rem;
+}
+.indent_header h3{
+	float: right;
+	margin-right: 45%;
+	margin-top: 0.6rem;
+	font-size:0.8rem;
+}
+.address{
+	width:100%;
+	height: 3rem;
+	background: #FFFFFF;
+	margin: 0.4rem 0 0.4rem 0;
+}
+.address img{
+	float: right;
+	width:0.6rem;
+	height: 0.6rem;
+	margin-right: 0.2rem;
+}
+.address p{
+	font-size: 13px;
+	font-family: "微软雅黑";
+	color:#7d7d7d;
+}
+
+.price{
+	width:100%;
+	height: 3rem;
+	background: #FFFFFF;
+	line-height: 3rem;
+}
+.price img{
+	float: left;
+	width:2.5rem;
+	height: 2.5rem;
+	margin-left: 0.5rem;
+}
+.price p{
+	float: right;
+	color:#A9A9A9;
+	font-family: "微软雅黑";
+	margin-right: 0.5rem;
+}
+.price span{
+	color:red;
+}
+.express{
+	width:100%;
+	height: 4rem;
+	background: #FFFFFF;
+	margin: 0.4rem 0 0.4rem 0;
+	padding: 0.1px;
+}
+.express li,.pay_money li{
+	height: 1.5rem;
+	line-height: 1.5rem;
+}
+.express li:first-child,.pay_money li:first-child{
+	border-bottom: 1px solid #ebebeb;
+}
+.express .express_money{
+	width:80%;
+	margin: 0.3rem auto 0 auto;
+}
+.express .express_money em{
+	float: left;
+	display: block;
+}
+.express .express_money span{
+	display: block;
+	float: right;
+	color:#ff8f5c;
+}
+
+.pay_money{
+	width: 100%;
+	height: 4rem;
+	background: #FFFFFF;
+	
+}
+.pay_money .wz{
+	width:80%;
+	margin: 0.3rem auto 0 auto;
+}
+.pay_money .wz p{
+	float: left;
+	font-size: 10px;
+}
+#zfb{width: 60%;margin-right:2rem;}
+.pay_money .img_right{
+	float: right;
+	width:0.6rem;
+	height: 0.6rem;
+	margin-top: 0.5rem;
+}
+.pay_money p img{
+	width:1rem;
+	height: 1rem;
+	margin-right: 0.3rem;
+}

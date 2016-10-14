@@ -1,0 +1,62 @@
+<div id="community">
+    <header class="community_header">
+   		<div class="community_header_text">
+   			<p><a href="#/communitySecond_two" >关注</a></p>
+   			<p><a href="javascript:void(0)"  id="comment_choose">推荐</a></p>
+   			<p><a href="#/communitySecond"  id="comment_newest">最新</a></p>
+   		</div>
+    </header>
+<div id="community_target">
+   	<div id="community_main">
+   		<div class="community_banner">
+   			<div class="community_banner_imgs" >
+   				<a href="#/communityThird"><img ng-src="{{x.banner_picture}}" ng-repeat="x in banner"/></a>
+   			</div>
+   		</div>
+   		<div class="community_content1">
+   			<div class="community_cont_head"  >
+   				<p class="community_cont_p1"><img src="img/sss.png"/><span>达人</span></p>
+   				<p class="community_cont_p2">></p>
+   			</div>
+   			<div class="community_cont1">
+   				<div class="community_cont_list" >
+	   				<div class="community_cont_figure" ng-repeat="x in community_figure"  >
+	   					<img ng-src="{{x.head_img}}"/>
+	   					<p class="cont1_p">{{x.nick}}</p>
+	   					<p class="cont1_p2">{{x.tongji_be_follow}}</p>
+	   				</div>
+	   			</div>
+   			</div>
+   			
+   		</div>
+   		<div class="community_content1">
+   			<div class="community_cont_head"  >
+   				<p class="community_cont_p1"><img src="img/sss.png"/><span>精选作品</span></p>
+   				<p class="community_cont_p2">></p>
+   			</div>
+   			<div class="community_cont1">
+   				<div class="community_cont_list" >
+	   				<div class="community_cont_figure2" ng-repeat="x in community_figure2" >
+	   					<a href="#/communityThird"><img ng-src="{{x.image}}"/></a>	
+	   				</div>
+	   			</div>
+   			</div>
+   		</div>
+   		
+   		<div class="community_contents" ng-repeat="x in community_figures" >
+   			<div class="community_content1" >
+	   			<div class="community_cont_head" >
+	   				<p class="community_cont_p1"><img src="img/sss.png"/><span>{{x.topic_name}}</span></p>
+	   				<p class="community_cont_p2">></p>
+	   			</div>
+	   			<div class="community_cont1">
+	   				<div class="community_cont_list">
+		   				<div class="community_cont_figure2" ng-repeat="y in x.data" >
+		   					<a href="#/communityThird"><img ng-src="{{y.image}}"/></a>	
+		   				</div>
+		   			</div>
+	   			</div>
+	   		</div>
+   		</div>
+    </div>
+</div>

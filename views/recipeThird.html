@@ -1,0 +1,37 @@
+<div id="recipeThird">
+  <div class="recipe_headimg">
+  	<img src="{{data1.image}}"/>
+    <div class="recipe_head_return" ng-click="footerShow()">
+      <a href="#/recipe"><img src="../img/jt.png" /></a>
+    </div>
+  </div>
+  <div class="recipe_head_text">
+  		<h3>{{data1.dashes_name}}</h3>
+  		<div class="recipe_head_li" >
+  			<li ng-repeat="x in data1.tags_info">
+          <span>{{x.text}}</span></li>	
+  		</div>
+  		<div class="recipe_head_text1">
+  			{{data1.material_desc}}
+  		</div>
+  		<div class="recipe_head_icon">
+  			<li>难度：一般</li>
+  			<li>烹饪时间：4分钟</li>
+  			<li>口味：酸</li>
+  		</div>		
+  </div>
+  <div class="recipe_main">
+  		<div class="recipe_nav">
+  			<li>做法</li>
+  			<li>食材</li>
+  			<li>相关常识</li>
+  			<li>相宜相克</li>
+  		</div>
+  		<div class="recipe_mains">
+  			<div class="recipe_list" ng-repeat="x in data1.step">
+  				<img src="{{x.dishes_step_image}}"/>
+  				<p><span>{{x.dishes_step_order}}.</span><span>{{x.dishes_step_desc}}</span></p>
+  			</div>
+  		</div>
+  </div>
+</div>

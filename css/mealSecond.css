@@ -1,0 +1,43 @@
+#meal_second{width: 100%;height: 100%;overflow-y:scroll;position: absolute;top:0;left: 0;background:white;display: none;z-index:-99;}
+#second_a{width: 100%;height: 100%;overflow-y:scroll;background:white;}
+/*头部*/
+.heade{width: 100%;height:2.5rem;}
+.heade img{margin: 0.8rem 2.5rem 0 1rem;float: left;}
+.heade h3{float: left;font-size:0.8rem;}
+/*身体*/
+.bodyOne{width: 100%;height: 11.5rem;position:relative;}
+.second_pic1{width: 100%;height:8.5rem;}
+.bodyOne #bo{width:2rem;height:2rem;position: absolute;top:3.5rem;left:6.5rem;}
+.bodyOne span{font-size:12px;color:#b6b3b6;display: inline-block;margin:0.8rem 6.5rem 0 0;}
+#collect,#links{width:1.15rem;height:1.15rem;margin-right:0.8rem;}
+/*第二部分视频选集*/
+.bodyTwo{width: 100%;border-bottom: 2px solid #f1f1f1;position:relative;}
+.bodyTwo span{font-size:0.65rem;display: inline-block;margin:0 8.5rem 0 1rem;}
+.bodyTwo img{width:0.8rem;height:0.8rem;}
+.bodyTwo p{float: left; font-size:0.6rem;margin: 0.5rem 0 0.2rem 0.8rem;}
+.bodyTwo p:nth-child(3){margin-right:10rem;}
+.bodyTwo button{width:1.5rem;height:1.5rem;background:#f7f3f7;border:none;clear: both;margin-left:0.6rem;}
+#zan{position: absolute;top:4.3rem;left:9.5rem;}
+#cookPic{margin: 2rem 0 0 0;}
+#cookPic img{width:1.5rem;height:1.5rem;margin:0 0.1rem 0.5rem 0.5rem ;}
+/*第三部分*/
+.bodyth{width: 100%;margin: 1rem 0 0 0;}
+.bodyth span{font-size:0.65rem;display: inline-block;margin:0 10.2rem 0 1rem;}
+.bodyth img{width:0.8rem;height:0.8rem;}
+.turnOne{width: 100%;overflow-x: scroll;margin-top:0.6rem ;}
+.turnTwo{width:160%;}
+.turnTwo img{width:6rem;height:6rem;margin: 0.1rem;}
+/*提交作业*/
+.bodyWork {position: relative;}
+.bodyWork span{font-size:0.65rem;display: inline-block;margin:1.5rem 10.2rem 0 1rem;}
+.bodyWork img{width:1.6rem;height:1.6rem;position: absolute;top:0.7rem;right:1rem;}
+.bodyWork p{font-size:0.6rem;color:#ff5e23;position: absolute;top:2.3rem;right:1rem;}
+.bodyWork button{width:15rem;height:1.5rem;background:#ff8e5a;border: none;margin:1rem 0 0 0.5rem;}
+/*留言部分*/
+.singgole_message{width: 100%;height: 3.5rem;margin:0.5rem 0 ;position: relative;}
+.singgole_message .loGo{width:2rem;height:2rem;float: left;margin:1rem 1rem 0 0.6rem;border-radius: 50%;}
+.meal_text{float: left;width: 9rem;}
+.little_pic{width:0.6rem;height:0.6rem;margin:1rem ;}
+.meal_text h3{font-size:0.7rem;}
+.meal_text p{font-size:0.6rem;}
+.meal_text span{font-size: 0.45rem;}

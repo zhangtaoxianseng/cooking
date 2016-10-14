@@ -1,0 +1,87 @@
+ul,li{list-style: none;}
+#recipe{width: 100%;height: 100%; overflow-x:hidden;}
+.recipeHeader{width: 100%;height: 7%;}
+.recipeHeader p{line-height: 2.2rem;height: 100%;}
+.recipeHeader p:first-child{text-align: left;}
+.recipeHeader p:nth-child(2){text-align: center;}
+.recipeHeader a:nth-child(3){text-align: right;display:block;line-height:2.2rem;}
+.recipeMain{width: 100%;height: 90.77%;background: #efefef;overflow-y: scroll;}
+.swiper-container{
+	width:100%;
+	height: 9rem;
+	overflow: hidden;
+	position: relative;
+	margin:0 auto;
+	}
+#luoBo{
+	width:400%;
+	position: absolute;
+	height: 100%;
+	}
+.swiper-slide{
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+#luoBo img{width:100%;height:100%;display:block;}
+
+/*圆点*/
+.pagination {
+  position: absolute;
+  z-index: 20;
+  left:33%;
+  top:7rem;
+  width: 100%;
+  text-align: center;
+}
+.swiper-pagination-switch {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: darkgray;
+  margin: 0 0.25rem;
+  opacity: 0.8;
+  border: 1px solid #fff;
+  cursor: pointer;
+}
+.swiper-active-switch {
+  background: orange;
+}
+.rmSeach{width: 95%;height: 10%;background:white;margin:0.5rem auto 0.5rem;}
+.rmSeach p{height: 100%;}
+.rmSeach p:first-child{text-align:right;line-height:2.2rem;}
+.rmSeach p:last-child input{width: 100%;height: 100%;border:none;}
+.rmLike{width: 100%;background:white;height: 4rem;}
+.rmLike1{width: 100%;height: 2rem;}
+.rmLike1 li{height: 100%;}
+.rmLike1 li img{width: 80%;height: 100%;}
+.rmLike2{width: 100%;height: 2rem;}
+.rmLike2 li{height: 100%;float: left;}
+.rmLike2 li p{width: 100%;font-size: 0.5rem;color:#424542;line-height:1.5rem;}
+.bdpw{width: 100%;height: 3rem;background:white;margin-top:0.5rem;overflow-x:scroll;overflow-y:hidden;}
+.bdpw div{width: 200%;height: 100%;}
+.bdpw img{width: 25%;height: 90%;}
+.newFood{width: 100%;height: 2.5rem;margin-top:0.5rem;background:white;}
+.newFood p{text-align:right;line-height:2.5rem;height: 100%;color:#424542;}
+.newFood p:last-child {background:url(../img/newfood.png) no-repeat left center;background-size:15% 40%;}
+.newFoodImg{width: 100%;height: 3rem;}
+.newFoodImg li{height: 100%;width: 24%;float:left;margin-right:0.2rem;}
+.newFoodImg li:last-child{margin:0;}
+.newFoodImg li img{height: 100%;width: 100%;border:none;margin-top:-0.5rem;}
+.newFoodTitle{width: 100%;height: 2rem;background:white;}
+.newFoodTitle p{text-overflow:ellipsis;overflow:hidden;white-space:nowrap;width: 25%;float:left;text-align:center;}
+.newFoodDes{width: 100%;background:white;height: 3rem;}
+.newFoodDes p{font-size:0.3rem;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;width: 25%;float:left;}
+.breakfast{width: 100%;height: 6rem;background:white;}
+.breakfast div{margin-top:-0.5rem;}
+.breakfast div:first-child{width: 34%;height: 100%;float:left;margin-right: 1%;}
+.breakfast div:first-child img{width: 100%;height: 100%;}
+.breakfast div:last-child{width: 65%;height: 100%;float:left;}
+.breakfast div:last-child img{width: 50%;height: 50%;float:left;display: block;}
+.breakfast div:last-child img:nth-child(n+3){margin-top: 0.1rem;height: 49%;}
+.breakfast div:last-child img:nth-child(2n+1){margin-right:0.1rem;width: 49%;}
+.breakfastDes{width: 100%;height: 2.5rem;;background:white;text-align:center;line-height:2.5rem;color:#a5a2a5;}
+
+
+

@@ -1,0 +1,57 @@
+
+/*第一个二级页面*/
+#store_banner{
+	width: 100%;
+	height: 100%;
+	overflow-y:hidden;
+}
+.loveheader,.shopping_header{
+	width:100%;
+	height: 2rem;
+	text-align: center;
+	line-height: 2rem;
+	border-bottom:1px solid #E5E5E5;
+	z-index: 9999;
+}
+.loveheader img,.shopping_header img{
+	width:1rem;
+	height: 1rem;
+	float: left;
+	margin-top: 0.5rem;
+}
+.loveheader h3,.shopping_header img h3{
+	float: right;
+	font-size:0.8rem;
+	line-height: 0.1rem;
+	margin-right:2.3rem;
+}
+.love{
+	width:100%;
+	height: 100%;
+	overflow-y: scroll;
+}
+.shuoming{
+	width: 100%;
+	height: 6rem;
+	padding: 0.1px;
+	
+}
+.shuoming h4{
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 13px;
+	margin: 0.5rem 0 0.5rem 0;
+}
+.shuoming p{
+	width:90%;
+	font-family: "微软雅黑";
+	font-size: 13px;
+	color:#9C9C9C;
+	text-indent: 2em;
+	margin-left: 0.8rem;
+}
+.colorH{
+	width: 100%;
+	height: 0.3rem;
+	background: #f8f8f8;
+}

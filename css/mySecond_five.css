@@ -1,0 +1,20 @@
+.myInvite{width: 100%;height:100%;background:#f5f5f5;}
+.myInvite .myInviteHeader{width: 100%;height: 2.5rem;position: relative;background: #ffffff;}
+.myInvite .myInviteHeader img{width:1rem;height:1rem;position: absolute;left: 1rem;top: 0.7rem;}
+.myInvite .myInviteHeader p{width: 100%;height: 2.5rem;text-align: center;line-height: 2.5rem;font-size: 0.8rem;color:#9C9C9C;}
+.myInviteMain{width:100%;height:2rem;line-height: 2rem;text-indent:1rem;font-size: 0.7rem;color: #9C9C9C;}
+.myInviteList{width:100%;height: 10rem;background: #FFFFFF;}
+.myInviteList li{width:100%;height: 2.5rem;border-bottom: 1px solid #9C9C9C;line-height: 2.5rem;}
+.myInviteList li:last-child{border: none;}
+.myInviteList li .myInvitePic{width: 1.5rem;height: 1.5rem;float: left;margin: 0.5rem 0 0 1rem;}
+.myInviteList li p{width: 12rem;height:2.5rem;float: left;text-indent: 1rem;font-size: 0.6rem;color: #9C9C9C;margin-top:-0.5rem;line-height:3.5rem;}
+.myInviteList li .myInvitePic2{width: 0.4rem;height: 0.8rem;}
+.myInviteCont{width: 100%;height:9rem;}
+.myInvite_top{width: 100%;height: 3rem;background: #FFFFFF;}
+.myInvite_bottom{width: 100%;height:6rem;}
+.myInvite_top img{width: 2rem;height:2rem;margin:0.5rem 0 0 0.5rem;float: left;}
+.myInvitCenter{width:10rem;height:3rem;float: left;}
+.myInvitCenter p{padding-top: 0.5rem;padding-left: 0.5rem;font-size:0.7rem;}
+.myInvitCenter span{padding-left: 0.5rem;font-size: 0.6rem;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;display: block;}
+.myInvite_top mark{line-height: 1rem;width: 3rem;height:1rem;background: #ff8f5c;color: #FFFFFF;font-size: 0.5rem;margin-top: 1rem;display: inline-block;text-align: center;}
+.myInvite_bottom img{width:33.3%;height: 6rem;float: left;}

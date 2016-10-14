@@ -1,0 +1,15 @@
+.my_register{width: 100%;height:100%;background:#ebc3a9;}
+.my_register .my_registerHeader{width: 100%;height: 2.5rem;position: relative;}
+.my_register .my_registerHeader img{width:1rem;height:1rem;position: absolute;left: 1rem;top: 0.7rem;}
+.my_register .my_registerHeader p{width: 100%;height: 2.5rem;text-align: center;line-height: 2.5rem;font-size: 0.8rem;color: #FFFFFF;}
+.my_registerList{width: 100%;height:9rem;background:#ebc3a9;margin-top:1rem;}
+.my_registerList p{width: 80%;height:3rem;border-bottom:1px solid #FFFFFF;margin: auto;}
+.my_registerList p:first-child{position: relative;}
+.my_registerList p input{width:40%;height:2.9rem;border:none;margin-left:10%;font-size:0.6rem;color: #eeeeee;background:#ebc3a9;}
+.my_registerList p:first-child input{text-indent:1rem;}
+.my_registerList p img{position: absolute;left:1rem;top:1rem;width: 1rem;height: 1rem;}
+.my_registerList p span{width:3rem;height:1.2rem;display: inline-block;background: #FFFFFF;vertical-align: middle;padding-left:0.3rem;line-height:1.2rem;font-size:0.7rem;}
+#my_one{width: 3rem;height: 2rem;display: inline-block;text-align: center;font-size: 0.7rem;color:#FFFFFF;}
+#my_two{border: 1px solid #ff8f5c;padding:0.2rem;color:#ff8f5c;margin-left:1.5rem; }
+#myBtn{margin-top:0.5rem;}
+

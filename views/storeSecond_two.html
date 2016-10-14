@@ -1,0 +1,34 @@
+<div id="pan">
+	<div class="shopping_header">
+		<a href="#/store" ng-click="footerShow()"><img src="img/左箭头.png"/></a>
+		<h3>商品详情</h3>
+	</div>
+	<div class="main_pan">
+		<!--swiper轮播图-->
+		<div class="swiper-container">
+			<div class="swiper-wrapper" id="luoBo">
+				<div class="swiper-slide"><img ng-src="http://img.szzhangchu.com/1472636951900_6692343045.jpg"/></div>
+				<div class="swiper-slide"><img ng-src="http://img.szzhangchu.com/1472638351552_1321082792.jpg"/></div>
+				<div class="swiper-slide"><img ng-src="http://img.szzhangchu.com/1472638480031_4808463540.jpg"/></div>
+				<div class="swiper-slide"><img ng-src="http://img.szzhangchu.com/1472638480032_2694908067.jpg"/></div>
+	 		</div>
+ 			<div class="pagination"></div>
+		</div>
+		<div class="text">
+			<div class="text1">
+				<p>已售：<span>{{data5.sales}}</span></p>
+				<p>{{data5.name}}</p>
+				<p><span class="span_money">￥{{data5.price}}</span><span class="span_yuan">原价：{{data5.streetPrice}}</span><span class="span_email">包邮</span></p>
+			</div>
+		</div>
+		<p class="text_color">本品为特惠商品，不加木铲、桌垫、围裙三件套，偏远地区需要补足邮费。默认发红色，需要蓝色的在填写地址时加上蓝色字样</p>
+		<div class="product_img">
+			<ul>
+				<li ng-repeat="x in data6"><img src="{{x.image}}" alt="" /></li>
+			</ul>
+		</div>
+	</div>
+	<div class="buy">
+		<a href="#/storeThird"><button>立刻购买</button></a>
+	</div>
+</div>

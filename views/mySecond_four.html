@@ -1,0 +1,29 @@
+<div class="my_like">
+		<div class="my_likeHeader">
+			<a href="#/my" ng-click="footerShow()"><img src="img/jt1.png"/></a>
+			<p>猜你喜欢</p>
+		</div>
+		<div ng-repeat="x in data" class="my_likeList">
+			<img ng-src="{{x.image}}" />
+			<img src="img/f2.png" />
+			<img src="img/mymeals.png"/>
+			<div class="my_likeCont">
+				<p>麻婆牛肉豆腐</p>
+				<p>就爱心急吃的热豆腐</p>
+				<span class="myLikeSpan">{{x.play}}人做过</span>
+			</div>
+			<ul class="my_likeList1">
+				<img src="img/tuij.png"/>
+				<li><a href="###">炒</a></li>
+				<li><a href="###">快手菜</a></li>
+				<li><a href="###">开胃消食</a></li>
+				<li><a href="###">豆制品</a></li>
+				<li><a href="###">厨师</a></li>
+			</ul>
+			<div class="clearfix"></div>
+		</div>
+		<!--脚步-->
+		<div class="my_likefooter">
+			<a href="#/mySecond_one">登录一下，让掌厨更懂你</a>
+		</div>
+	</div>

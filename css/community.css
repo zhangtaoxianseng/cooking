@@ -1,0 +1,29 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+#community{width: 100%;height: 100%;overflow-y:scroll ;font-size: 0.6rem;}
+.community_header{width: 100%;height: 2.05rem;line-height: 2.05rem;float: left;position: fixed;top: 0;background: white;z-index: 9;}
+.community_header_text{width:8.09rem;margin: auto;text-align: center;color: #454545;height:1.85rem;}
+.community_header_text p{width:33%;float: left;font-size:0.74rem ;}
+.community_header_text p a{display: block;height: 2.03rem;}
+.community_header_text p:nth-child(2) a{border-bottom:0.1rem solid orangered;}
+
+#community_main{width: 100%;background: #eeeeee;margin-top: 2.05rem;height: 100%;}
+.community_banner{width: 100%;height: 5.407rem;margin-bottom: 0.4444rem;float: left;overflow: hidden;}
+.community_banner_imgs{width: 200%;height: 5.407rem;float: left;}
+.community_banner_imgs img{width: 50%;height:100%;float: left;display: block;}
+.community_content1{width: 100%;height:7.377rem;overflow-x:scroll;margin-bottom: 0.444rem;background: white;float: left;}
+.community_cont_head{width:100%;height: 2.05rem;line-height: 2.05rem;float: left;}
+.community_cont1{width: 100%;height: 5.327rem;overflow-x:scroll ;}
+.community_cont_p1{width: 90%;float: left;height: 2.05rem;font-size: 0.8rem;}
+.community_cont_p1 img{margin: 0.5rem;width:1rem;height: 1rem;}
+.community_cont_p2{width: 10%;float: left;height: 2.05rem;text-align: center;color:lightgray;}
+.community_cont_list{width: 400%;height: 5.318rem;float: left;}
+
+
+.community_cont_figure{width: 5%;height: 100%;font-size: 0.666rem;float: left;}
+.community_cont_figure img{width: 2.8rem;height: 2.8rem;border-radius: 50%;margin: 0.1rem;}
+.community_cont1 p{font-size: 0.6rem;overflow: hidden;text-overflow: ellipsis;white-space:nowrap;height: 0.9rem;text-align: center;margin-top: 0.1rem;}
+.cont1_p2{color: #9f9f9f;margin:0;}
+.cont1_p1{margin-bottom:-0.5rem;}
+.community_cont_figure2{width:5.33rem;height: 100%;font-size: 0.666rem;float: left;}
+.community_cont_figure2 img{width:5.2rem;height:4.9;margin-right: 0.2rem;}
+.community_contents{width: 100%;}

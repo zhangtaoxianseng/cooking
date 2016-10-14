@@ -1,0 +1,66 @@
+<div id="recipe">
+   <header class="recipeHeader">
+   	<p class="iconfont col-xs-4">&#xe606;</p>
+   	<p class="col-xs-4">食谱</p>
+   	<a class="iconfont col-xs-4" href="#/recipeSecond">&#xe605;</a>
+   </header>
+   <div class="recipeMain">
+   		<div class="swiper-container">
+        <div class="swiper-wrapper" id="luoBo">
+          <div class="swiper-slide"><img ng-src="http://img.szzhangchu.com/1474460766719_8545092488.jpg"/></div>
+          <div class="swiper-slide"><img ng-src="http://img.szzhangchu.com/1474447911541_2565940206.jpg"/></div>
+          <div class="swiper-slide"><img ng-src="http://img.szzhangchu.com/1474449204464_3575303158.jpg"/></div>
+          <div class="swiper-slide"><img ng-src="http://img.szzhangchu.com/1474450013960_7810392213.jpg"/></div>
+        </div>
+        <div class="pagination"></div>
+      </div>
+       
+   		<div class="rmSeach">
+   			<p class="iconfont col-xs-4">&#xe605;</p>
+			  <p class="col-xs-8"><a href="#/recipeSecond"><input type="text" placeholder="输入食材或菜名搜索"></a></p>
+   		</div>
+        <div class="rmLike">
+               <div class="rmLike1">
+                  <li class="col-xs-3" ng-repeat = "x in arrRmLike1"><img ng-src="{{x.content}}" alt=""></li>
+               </div>
+               <div class="rmLike2">
+                  <li class="col-xs-3" ng-repeat = "x in arrRmLike2"><p>{{x.content}}</p></li>
+               </div>
+        </div>
+      	<div class="bdpw">
+            <div> <img class="col-xs-6" ng-repeat = "x in bdpw" ng-src="{{x.content}}"/></div>
+         </div>
+         <div class="newFood">
+            <p class="col-xs-7">今日新品</p>
+            <p class="col-xs-5"></p>
+         </div>
+         <div class="newFoodImg">
+            <li ng-repeat="x in newFoodImg"><a href="#/recipeThird"><img ng-src="{{x.content}}" alt="" ></a></li>
+         </div>
+         <div class="newFoodTitle">
+            <p ng-repeat ="x in newFoodTitle">{{x.content}}</p>
+         </div>
+         <div class="newFoodDes">
+            <p ng-repeat ="x in newFoodDes">{{x.content}}</p>
+         </div>
+         <div class="newFood">
+            <p class="col-xs-7">早餐日记</p>
+            <p class="col-xs-5"></p>
+         </div>
+         <div class="breakfast">
+            <div><img ng-src="{{breakfastImg1.content}}" alt=""></div>
+            <div>
+               <img ng-src="{{x.content}}" alt="" ng-repeat="x in breakfastImg2">
+            </div>
+         </div>
+        <div class="breakfastDes">那些不会照顾自己的人才会忽略食物的重要性</div>
+   </div>
+</div>
+
+
+
+
+
+
+
+

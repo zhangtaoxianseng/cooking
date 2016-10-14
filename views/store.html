@@ -1,0 +1,27 @@
+<div id="store">
+  <header class="store_header">商城</header>
+	<div class="store_main">
+		<banner><a href="#/storeSecond_one"><img ng-src="{{data}}"/></a></banner>
+		<div class="scrollbanner">
+			<ul>
+				<li ng-repeat="x in data1"><a href="#/storeSecond_three"><img src="{{x.bannerPicture}}" alt="" /></a></li>
+			</ul>
+		</div>
+		<div class="hot">
+			<p>热门商品</p>
+		</div>
+		
+		<div class="imglist">
+			<ul>
+				<li ng-repeat="x in data2">
+					<a href="#/storeSecond_two"><img ng-src="{{x.backgroundImage}}" alt="" /></a>
+					<div class="allP">
+						<p>{{x.name}}</p>
+						<p class="sell">已售：<span>{{x.sales}}</span>  包邮</p>
+						<p><span class="span1">￥{{x.price}}</span>  <span class="span2">原价：{{x.streetPrice}}</span></p>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

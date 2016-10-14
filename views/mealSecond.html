@@ -1,0 +1,60 @@
+<div id = "second_a">
+	<!--二级页面头部-->
+	<div class = "heade">
+		<a href="#/meal" ng-click="footerShow()"><img class = "second_return" src="img/meal_a.png"/></a>
+		<h3>{{sgMsg.series_name}}</h3>			
+	</div>
+		<!--二级页面主体-->
+	<div class ="second_body">
+		<!--视频图片-->
+		<div class = "bodyOne">
+			<a href="#/mealThird"><img class ="second_pic1" src="{{sgMsg.image}}" /></a>			
+			<a href="#/mealThird"><img id = "bo" src="img/meals.png"/></a>
+			<span>上课人数{{sgMsg.play}}</span>
+			<img id = "links" src="img/biao.png"/>	
+			<img id = "collect" src="img/biao2.png"/> 
+		</div>
+		<!--视频选集-->
+		<div class = "bodyTwo">
+			<span>#掌厨会员分享#</span><img src="img/mealc.png"/>
+			<p>选集</p><p>更新至{{sgMsg.type}}集</p><br/>
+			<button>1</button><button>2</button><br/>
+			<p>四位厨友觉得很赞</p><img id="zan" src="img/zan.png"/>
+			<div id = "cookPic">
+				<a href="#/mealThird_two"><img src="img/m2.png"/></a>
+				<img src="img/m2.png"/>
+				<img src="img/m2.png"/>
+				<img src="img/m2.png"/>		
+			</div>										
+		</div>
+		<!--课程滑动--> 
+		<div class="bodyth">
+			<span>相关课程</span><img src="img/lesson2.png"/>
+			<div class="turnOne">
+				<div class = "turnTwo">
+					<img src="img/lesson1.png"/>
+					<img src="img/lesson1.png"/>
+					<img src="img/lesson1.png"/>
+					<img src="img/lesson1.png"/>					
+				</div>
+			</div>				
+		</div>
+		<!--上交作业-->
+		<div class ="bodyWork">
+			<span>五条评论</span><img src="img/f.png"/><br/><p>交作业</p>
+			<button>课堂发言</button>
+		</div>
+		<!--留言-->
+		<div class="bodyEnd">
+			<div class="singgole_message" ng-repeat='x in messageList'>
+				<img class="loGo" src="{{x.head_img}}"/>
+				<div class="meal_text">
+					<h3>{{x.nick}}</h3>
+					<p>{{x.content}}</p>
+					<span>{{x.create_time}}</span>
+				</div>
+				<img class="little_pic" src="img/liuyan.png"/> 
+			</div>
+		</div>
+	</div>
+</div>

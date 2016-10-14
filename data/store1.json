@@ -1,0 +1,1156 @@
+
+{
+	"code": 0,
+	"msg": "",
+	"timestamp": 1474511633993,
+	"version": "4.2",
+	"data": {
+		"topBanner": [{
+			"bannerId": 92,
+			"bannerTitle": "简单爱",
+			"bannerPicture": "http:\/\/img.szzhangchu.com\/1466214407457_9115060167.jpg",
+			"bannerClick": 0,
+			"bannerLink": "",
+			"referKey": 11,
+			"typeId": 5,
+			"link": false
+		}],
+		"soup":[{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 6,
+			"backgroundImage": "http://img.szzhangchu.com/1453715932403_8015404182.jpg@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "固阳元健康汤料套装",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 348,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 278,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		},{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 0,
+			"backgroundImage": "http://img.szzhangchu.com/1453715736035_7148968670.jpg@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "老当益壮健康汤料套装",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 285,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 228,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		},{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 9,
+			"backgroundImage": "http://img.szzhangchu.com/1453715306738_2471424187.jpg@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "气血和健康汤料套装",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 323,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 258,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		},{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 11,
+			"backgroundImage": "http://img.szzhangchu.com/1453712671840_8893020079.jpg@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "全家康健康汤料套装",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 285,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 228,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		},{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 0,
+			"backgroundImage": "http://img.szzhangchu.com/1456797052809_3961355219.jpg@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "阴虚体质健康汤料套装",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 375,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 298,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		},{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 0,
+			"backgroundImage": "http://img.szzhangchu.com/1456798238171_3361136680.jpg@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "血淤体质健康汤料套装",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 310,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 248,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		}],
+		
+		"specilSale":[{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 12,
+			"backgroundImage": "http://img.szzhangchu.com/1473059829735_6689729960.jpg@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "优雪 迷你电饭煲 1.2L 黑白色",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 99,
+			"leftQty": 79,
+			"totalQty": 100,
+			"price": 258,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		},{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 3,
+			"backgroundImage": "http://img.szzhangchu.com/1473218632882_9873651583.png@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "oGG 榨汁机 多功能果汁机",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 298,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 128,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		},{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 5,
+			"backgroundImage": "http://img.szzhangchu.com/1473059623286_1131666061.jpg@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "优雪 迷你电饭煲 1.2L 浅蓝色",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 375,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 79,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		},{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 2,
+			"backgroundImage": "http://img.szzhangchu.com/1468997988686_4432649910.jpg@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "优雪 迷你电饭煲 1.2L 粉红色",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 99,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 79,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		},{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 12,
+			"backgroundImage": "http://img.szzhangchu.com/1473059829735_6689729960.jpg@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "优雪 迷你电饭煲 1.2L 黑白色",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 99,
+			"leftQty": 79,
+			"totalQty": 100,
+			"price": 258,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+		},{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 3,
+			"backgroundImage": "http://img.szzhangchu.com/1473218632882_9873651583.png@157.5h_157.5w_1e_1c.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "oGG 榨汁机 多功能果汁机",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 298,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 128,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false
+			}],
+		"scrollBanner": [{
+			"bannerId": 93,
+			"bannerTitle": "优雪",
+			"bannerPicture": "http:\/\/img.szzhangchu.com\/1469528889571_2062477600.jpg",
+			"bannerClick": 0,
+			"bannerLink": "",
+			"referKey": 16,
+			"typeId": 6,
+			"link": false
+		}, {
+			"bannerId": 87,
+			"bannerTitle": "意高威",
+			"bannerPicture": "http:\/\/img.szzhangchu.com\/1471344149020_2627046692.png",
+			"bannerClick": 0,
+			"bannerLink": "",
+			"referKey": 15,
+			"typeId": 6,
+			"link": false
+		}, {
+			"bannerId": 84,
+			"bannerTitle": "自营图书",
+			"bannerPicture": "http:\/\/img.szzhangchu.com\/1471916336342_5831401399.jpg",
+			"bannerClick": 0,
+			"bannerLink": "",
+			"referKey": 12,
+			"typeId": 6,
+			"link": false
+		}, {
+			"bannerId": 79,
+			"bannerTitle": "焙芝友年货节专场",
+			"bannerPicture": "http:\/\/img.szzhangchu.com\/1459152799217_3472338574.jpg",
+			"bannerClick": 0,
+			"bannerLink": "",
+			"referKey": 5,
+			"typeId": 6,
+			"link": false
+		}, {
+			"bannerId": 78,
+			"bannerTitle": "简单爱健康汤料",
+			"bannerPicture": "http:\/\/img.szzhangchu.com\/1454307658449_6340231985.jpg",
+			"bannerClick": 0,
+			"bannerLink": "",
+			"referKey": 9,
+			"typeId": 6,
+			"link": false
+		}, {
+			"bannerId": 75,
+			"bannerTitle": "出自日本的瘦身神器",
+			"bannerPicture": "http:\/\/img.szzhangchu.com\/1454582772715_7721969164.jpg",
+			"bannerClick": 0,
+			"bannerLink": "",
+			"referKey": 6,
+			"typeId": 6,
+			"link": false
+		}],
+		"listCommodity": [{
+			"postage": 0,
+			"promotionDesc": "超值特惠",
+			"sales": 6,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1472636951778_6152395577.jpg",
+			"sellerDesc": "意彩29cm",
+			"id": 480,
+			"name": "意彩29cm椭圆形搪瓷珐琅铸铁汤锅炖锅 焖烧煮粥煲 电磁炉通用烹饪锅",
+			"intro": "意彩29cm",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 789,
+			"leftQty": 99,
+			"totalQty": 100,
+			"price": 299,
+			"saleOn": 1472636162000,
+			"saleOff": 1504172164000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 480,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 480,
+				"image": "http:\/\/img.szzhangchu.com\/1472636951900_6692343045.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http:\/\/img.szzhangchu.com\/1472638351552_1321082792.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http:\/\/img.szzhangchu.com\/1472638480031_4808463540.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http:\/\/img.szzhangchu.com\/1472638480032_2694908067.jpg"
+			}],
+			
+			
+			
+			"productImg": [{
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636865081_2638087940.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636488559_7581297253.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636613866_5306156632.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636633600_8196582807.jpg"
+			},{
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636670201_1347948293.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636677404_7697171825.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636682599_6011584411.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636706052_6322590495.jpg"
+			},{
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636722529_5515689290.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636730946_2109307701.jpg"
+			}, {
+				"commodityId": 480,
+				"image": "http://img.szzhangchu.com//1472636747988_7984347207.jpg"
+			}]
+			
+			
+			
+		}, {
+			"postage": 0,
+			"promotionDesc": "掌厨精品",
+			"sales": 11,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1473129643220_6346412177.png",
+			"sellerDesc": "一城一味",
+			"id": 483,
+			"name": "一城一味-念念不忘的川\/湘\/粤菜（全套）",
+			"intro": "一城一味",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 105,
+			"leftQty": 999,
+			"totalQty": 1000,
+			"price": 78,
+			"saleOn": 1473129102000,
+			"saleOff": 1506565904000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 483,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 483,
+				"image": "http:\/\/img.szzhangchu.com\/1473129643520_9966492360.png"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "掌厨精品",
+			"sales": 9,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1473215739175_6640550010.jpg",
+			"sellerDesc": "跟星级大厨学做营养汤",
+			"id": 485,
+			"name": "跟星级大厨学做营养汤\/小炒\/家常菜（全套）",
+			"intro": "跟星级大厨学做营养汤",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 119.4,
+			"leftQty": 996,
+			"totalQty": 1000,
+			"price": 82,
+			"saleOn": 1473215183000,
+			"saleOff": 1506651986000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 485,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 485,
+				"image": "http:\/\/img.szzhangchu.com\/1473215739268_3733285631.png"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 52,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1472464759066_9354994672.png",
+			"sellerDesc": "",
+			"id": 104,
+			"name": "邮费补齐差价",
+			"intro": "0",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 1,
+			"leftQty": 99999948,
+			"totalQty": 100000000,
+			"price": 1,
+			"saleOn": 1454051544000,
+			"saleOff": 1521616348000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 104,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 104,
+				"image": "http:\/\/img.szzhangchu.com\/1472464759159_2632493165.png"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 1,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1460365378943_2099943030.jpg",
+			"sellerDesc": "金版文化",
+			"id": 275,
+			"name": "带给全家幸福的妙手烘焙",
+			"intro": "0",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 29.8,
+			"leftQty": 9999999,
+			"totalQty": 10000000,
+			"price": 23.8,
+			"saleOn": 1460362387000,
+			"saleOff": 1483199999000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 275,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 275,
+				"image": "http:\/\/img.szzhangchu.com\/1460365379198_2761920020.png"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 7,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1467188360454_9566419698.jpg",
+			"sellerDesc": "0",
+			"id": 446,
+			"name": "一城一味-念念不忘的川菜",
+			"intro": "0",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 35,
+			"leftQty": 993,
+			"totalQty": 1000,
+			"price": 29,
+			"saleOn": 1467187756000,
+			"saleOff": 1514707757000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 446,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 446,
+				"image": "http:\/\/img.szzhangchu.com\/1467188360957_8436014780.jpg"
+			}, {
+				"commodityId": 446,
+				"image": "http:\/\/img.szzhangchu.com\/1467188360954_1213295108.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 10,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1467187907765_7138144197.jpg",
+			"sellerDesc": "0",
+			"id": 445,
+			"name": "一城一味-念念不忘的湘菜",
+			"intro": "0",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 35,
+			"leftQty": 990,
+			"totalQty": 1000,
+			"price": 29,
+			"saleOn": 1467187254000,
+			"saleOff": 1514707256000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 445,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 445,
+				"image": "http:\/\/img.szzhangchu.com\/1467187908199_5121513724.jpg"
+			}, {
+				"commodityId": 445,
+				"image": "http:\/\/img.szzhangchu.com\/1467187908199_5823815051.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 6,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1467189602060_3813571917.jpg",
+			"sellerDesc": "0",
+			"id": 447,
+			"name": "一城一味-念念不忘的粤菜",
+			"intro": "0",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 35,
+			"leftQty": 994,
+			"totalQty": 1000,
+			"price": 29,
+			"saleOn": 1467188251000,
+			"saleOff": 1514708252000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 447,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 447,
+				"image": "http:\/\/img.szzhangchu.com\/1467189602332_5184331754.jpg"
+			}, {
+				"commodityId": 447,
+				"image": "http:\/\/img.szzhangchu.com\/1467189602332_1319954520.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 7,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1472457772718_9225331833.jpg",
+			"sellerDesc": "跟星级大厨学做营养汤",
+			"id": 476,
+			"name": "跟星级大厨学做营养汤",
+			"intro": "跟星级大厨学做营养汤",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 39.8,
+			"leftQty": 9999,
+			"totalQty": 10000,
+			"price": 31.8,
+			"saleOn": 1472457843000,
+			"saleOff": 1504166644000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 476,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 476,
+				"image": "http:\/\/img.szzhangchu.com\/1472458074830_6870254124.jpg"
+			}, {
+				"commodityId": 476,
+				"image": "http:\/\/img.szzhangchu.com\/1472458074830_2838704296.jpg"
+			}, {
+				"commodityId": 476,
+				"image": "http:\/\/img.szzhangchu.com\/1472458074830_3425649190.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 3,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1472457772718_9225331833.jpg",
+			"sellerDesc": "跟星级大厨学做美味小炒",
+			"id": 475,
+			"name": "跟星级大厨学做美味小炒",
+			"intro": "跟星级大厨学做美味小炒",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 39.8,
+			"leftQty": 9999,
+			"totalQty": 10000,
+			"price": 31.8,
+			"saleOn": 1472457679000,
+			"saleOff": 1504166480000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 475,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 475,
+				"image": "http:\/\/img.szzhangchu.com\/1472457936694_4715772740.jpg"
+			}, {
+				"commodityId": 475,
+				"image": "http:\/\/img.szzhangchu.com\/1472457936694_1484463587.png"
+			}, {
+				"commodityId": 475,
+				"image": "http:\/\/img.szzhangchu.com\/1472457936694_5891927831.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 3,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1472457772718_9225331833.jpg",
+			"sellerDesc": "跟星级大厨学做经典家常菜",
+			"id": 474,
+			"name": "跟星级大厨学做经典家常菜",
+			"intro": "跟星级大厨学做经典家常菜",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 39.8,
+			"leftQty": 9997,
+			"totalQty": 10000,
+			"price": 31.8,
+			"saleOn": 1472457207000,
+			"saleOff": 1504166009000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 474,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 474,
+				"image": "http:\/\/img.szzhangchu.com\/1472457773076_2919962011.jpg"
+			}, {
+				"commodityId": 474,
+				"image": "http:\/\/img.szzhangchu.com\/1472457773078_4795756438.jpg"
+			}, {
+				"commodityId": 474,
+				"image": "http:\/\/img.szzhangchu.com\/1472457773078_1165403332.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "新品",
+			"sales": 6,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1473495368013_9420056085.png",
+			"sellerDesc": "TOP人气料理：蛋类·便当·水饺 料理合集",
+			"id": 490,
+			"name": "TOP人气料理：蛋类·便当·水饺 料理合集",
+			"intro": "TOP人气料理：蛋类·便当·水饺 料理合集",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 89.4,
+			"leftQty": 10000,
+			"totalQty": 10000,
+			"price": 65,
+			"saleOn": 1473495140000,
+			"saleOff": 1506672737000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 490,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 490,
+				"image": "http:\/\/img.szzhangchu.com\/1473495408969_3544180916.png"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "新品",
+			"sales": 5,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1473494810874_4700635835.jpg",
+			"sellerDesc": "超美味私房饺子",
+			"id": 489,
+			"name": "水饺料理：超美味私房饺子",
+			"intro": "超美味私房饺子",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 29.8,
+			"leftQty": 9999,
+			"totalQty": 10000,
+			"price": 23.8,
+			"saleOn": 1473494606000,
+			"saleOff": 1506585808000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 489,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 489,
+				"image": "http:\/\/img.szzhangchu.com\/1473494811047_7090308397.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 2,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1473494380727_8121679720.jpg",
+			"sellerDesc": "爱心便当：饭盒里的温暖美味",
+			"id": 487,
+			"name": "便当料理：饭盒里的温暖美味",
+			"intro": "饭盒里的温暖美味",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 29.8,
+			"leftQty": 1000,
+			"totalQty": 1000,
+			"price": 23.8,
+			"saleOn": 1473493702000,
+			"saleOff": 1506498504000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 487,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 487,
+				"image": "http:\/\/img.szzhangchu.com\/1473494380920_6136762539.png"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 1,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1473494598597_8502314043.jpg",
+			"sellerDesc": "鸡蛋料理：鸡蛋的N次华丽“变身”",
+			"id": 488,
+			"name": "鸡蛋料理：鸡蛋的N次华丽“变身”",
+			"intro": "鸡蛋料理：鸡蛋的N次华丽“变身”",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 29.8,
+			"leftQty": 10000,
+			"totalQty": 10000,
+			"price": 23.8,
+			"saleOn": 1473494325000,
+			"saleOff": 1506499126000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 488,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 488,
+				"image": "http:\/\/img.szzhangchu.com\/1473494598698_2871034567.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 0,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1465185020480_5371722550.jpg",
+			"sellerDesc": "0",
+			"id": 413,
+			"name": "意彩24CM珐琅加厚铸铁锅炖汤生铁汤锅炖锅汤煲双耳平底汤锅",
+			"intro": "0",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 598,
+			"leftQty": 10000,
+			"totalQty": 10000,
+			"price": 299,
+			"saleOn": 1465184744000,
+			"saleOff": 1514691946000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 413,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 413,
+				"image": "http:\/\/img.szzhangchu.com\/1465185020698_6248089092.jpg"
+			}, {
+				"commodityId": 413,
+				"image": "http:\/\/img.szzhangchu.com\/1465185020702_5844472854.jpg"
+			}, {
+				"commodityId": 413,
+				"image": "http:\/\/img.szzhangchu.com\/1465185020700_5285417481.jpg"
+			}, {
+				"commodityId": 413,
+				"image": "http:\/\/img.szzhangchu.com\/1465185020699_8840103505.jpg"
+			}, {
+				"commodityId": 413,
+				"image": "http:\/\/img.szzhangchu.com\/1465185020704_4472466475.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 0,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1465181457038_1438110314.jpg",
+			"sellerDesc": "0",
+			"id": 403,
+			"name": "意彩厨具34CM香槟色 铸铁炒锅彩色无烟不粘 内无涂层 厚铸铁锅-双耳带盖炒菜锅",
+			"intro": "0",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 699,
+			"leftQty": 10000,
+			"totalQty": 10000,
+			"price": 349,
+			"saleOn": 1465181228000,
+			"saleOff": 1514688429000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 403,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 403,
+				"image": "http:\/\/img.szzhangchu.com\/1465181457230_9438257524.jpg"
+			}, {
+				"commodityId": 403,
+				"image": "http:\/\/img.szzhangchu.com\/1465181457230_8230308786.jpg"
+			}, {
+				"commodityId": 403,
+				"image": "http:\/\/img.szzhangchu.com\/1465181457230_9189723161.jpg"
+			}, {
+				"commodityId": 403,
+				"image": "http:\/\/img.szzhangchu.com\/1465181457231_1405064114.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 0,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1465182157567_8710935809.jpg",
+			"sellerDesc": "0",
+			"id": 404,
+			"name": "意彩炒锅32cm红色不粘锅燃气 铸铁传统生铁铁锅 无涂层电磁炉通用锅具",
+			"intro": "0",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 668,
+			"leftQty": 10000,
+			"totalQty": 10000,
+			"price": 299,
+			"saleOn": 1465181459000,
+			"saleOff": 1514688734000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 404,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 404,
+				"image": "http:\/\/img.szzhangchu.com\/1465182157756_5880651087.jpg"
+			}, {
+				"commodityId": 404,
+				"image": "http:\/\/img.szzhangchu.com\/1465182157756_4228354432.jpg"
+			}, {
+				"commodityId": 404,
+				"image": "http:\/\/img.szzhangchu.com\/1465182157757_6134814749.jpg"
+			}, {
+				"commodityId": 404,
+				"image": "http:\/\/img.szzhangchu.com\/1465182157762_9806443262.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 0,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1461137843040_7305491280.jpg",
+			"sellerDesc": "0",
+			"id": 325,
+			"name": "带给全家幸福的蓝带面包",
+			"intro": "0",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 29.8,
+			"leftQty": 10000,
+			"totalQty": 10000,
+			"price": 23.8,
+			"saleOn": 1461137548000,
+			"saleOff": 1514705549000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 325,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 325,
+				"image": "http:\/\/img.szzhangchu.com\/1461137843140_7775734398.jpg"
+			}]
+		}, {
+			"postage": 0,
+			"promotionDesc": "",
+			"sales": 0,
+			"backgroundImage": "http:\/\/img.szzhangchu.com\/1465184760311_6590918806.jpg",
+			"sellerDesc": "0",
+			"id": 412,
+			"name": "25CM意彩厨具\/国际时尚 彩色无烟不粘 珐琅瓷 厚铸铁锅\/圆形煎锅",
+			"intro": "0",
+			"commodityType": {
+				"id": 4,
+				"name": "掌厨商城商品",
+				"parentId": 0,
+				"isLeaf": false
+			},
+			"commodityDesc": null,
+			"streetPrice": 338,
+			"leftQty": 10000,
+			"totalQty": 10000,
+			"price": 169,
+			"saleOn": 1465184538000,
+			"saleOff": 1514691739000,
+			"useVoucher": false,
+			"buyLimit": 0,
+			"isVirtual": false,
+			"visualCodeList": [{
+				"commodityId": 412,
+				"code": null
+			}],
+			"imageList": [{
+				"commodityId": 412,
+				"image": "http:\/\/img.szzhangchu.com\/1465184760463_3590158958.jpg"
+			}, {
+				"commodityId": 412,
+				"image": "http:\/\/img.szzhangchu.com\/1465184760463_2737605605.jpg"
+			}, {
+				"commodityId": 412,
+				"image": "http:\/\/img.szzhangchu.com\/1465184760462_8837885041.jpg"
+			}, {
+				"commodityId": 412,
+				"image": "http:\/\/img.szzhangchu.com\/1465184760460_1130895404.jpg"
+			}, {
+				"commodityId": 412,
+				"image": "http:\/\/img.szzhangchu.com\/1465184760464_7058616629.jpg"
+			}]
+		}]
+	}
+}

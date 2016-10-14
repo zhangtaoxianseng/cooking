@@ -1,0 +1,35 @@
+	<header class="community_header">
+   		<div class="community_header_text" >
+   			<p><a href="javascript:void(0)" id="comment_attention" ng-click="community2()">关注</a></p>
+   			<p><a href="#/community"  id="comment_choose" ng-click="community()">推荐</a></p>
+   			<p><a href="#/communitySecond"  id="comment_newest" ng-click="community1()">最新</a></p>
+   		</div>
+    </header>
+	<div id="community_attention">
+	  		<div class="community_attention_list" ng-repeat="x in attention">
+	  			<img ng-src="{{x.image}}" class="community_attention_img"/>
+	  			<div class="community_attention_text">
+	  				<div class="attention_text1">
+	  					<!--{{x.content}}-->
+	  					新年的脚步越来越近，转眼间，2015就只剩下了最后两天，这一年里，掌厨可谓是发生了翻天覆地的变化，当然这一路走来，少不了大家的支持，也正是因为大家的支持，才让掌厨有了如此华丽的转身！
+	  				</div>
+	  				<div class="attention_head">
+	  					<img ng-src="{{x.head_img}}" class="attention_head_img"/>
+	  					<p class="attention_nick">{{x.nick}}</p>
+	  					<p class="attention_time">{{x.create_time}}</p>
+	  				</div>
+	  				<div class="attention_assist" ng-repeat="y in x.lick">
+	  					<img ng-src="{{y.head_img}}" />
+	  				</div>
+	  				<div class="attention_comment" ng-repeat="y in x.comment">
+	  					<p><span>{{y.nick}} :</span><span>{{y.content}}</span></p>
+	  				</div>
+	  				<div class="attention_cont">
+	  					<li><span><img src="../img/ageree.png" alt="" /></span><span>{{x.agree_count}}</span></li>
+	  					<li><span><img src="../img/xinxi.png" alt="" /></span><span>{{x.comment_count}}</span></li>
+	  					<li><span><img src="../img/fenxiang.png" alt="" /></span></li>
+	  				</div>
+	  			</div>
+	  		</div>
+	  	</div>
+  	</div>

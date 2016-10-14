@@ -1,0 +1,18 @@
+.my_like{width: 100%;height:100%;background:#f5f5f5;overflow-y: scroll;}
+.my_like .my_likeHeader{width: 100%;height: 2.5rem;position: relative;background:#FFFFFF;}
+.my_like .my_likeHeader img{width:1rem;height:1rem;position: absolute;left: 1rem;top: 0.7rem;}
+.my_like .my_likeHeader p{width: 100%;height: 2.5rem;text-align: center;line-height: 2.5rem;font-size: 0.8rem;color: gray;}
+.my_likeList{width:100%;height: 13rem;position: relative;background:#f5f5f5;}
+.my_likeList img{width: 100%;height: 10rem;}
+.my_likeList .my_likeCont{width: 100%;height:2rem;position: absolute;left:0;top:7rem;}
+.my_likeList .my_likeCont p{width:50%;height:1rem;line-height: 1rem;text-indent:1rem;font-size: 0.6rem;color:#FFFFFF;}
+.myLikeSpan{width: 50%;height: 1.5rem;position: absolute;right: 0;top:1rem;color: #FFFFFF;font-size: 0.6rem;text-align:right;margin-right:1rem;}
+.my_likeList img:nth-child(2){width:2rem;height: 2rem;z-index:1;left: 0;top: 0;position: absolute;}
+.my_likeList img:nth-child(3){width:2.5rem;height: 2.5rem;z-index:1;left:43%;top:4.25rem;position: absolute;}
+.my_likeList1{width:100%;height:2.5rem;background: #FFFFFF;position: relative;}
+.my_likeList1 img{width: 0.8rem;height: 0.8rem;position: absolute;top:0.8rem;left: 0;}
+.my_likeList1 li{display: inline-block;float: left;height:2.5rem;line-height: 2.5rem;}
+.my_likeList1 li a{height:1rem;line-height: 1rem;float: left;padding:0.2rem;border-radius:0.2rem;line-height:0.5rem;border: 1px solid #ff7939;margin-left:0.5rem ;margin-top:0.7rem;color: #9C9C9C;font-size: 0.5rem;}
+.my_likeList1 li:nth-child(2){margin-left: 1.5rem;}
+.my_likefooter{width: 100%;height: 2.5rem;text-align: center;line-height: 2.5rem;}
+.my_likefooter a{color:#ff7939;font-size: 0.6rem;}

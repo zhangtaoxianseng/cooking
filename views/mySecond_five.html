@@ -1,0 +1,30 @@
+<div class="myInvite">
+		<div class="myInviteHeader">
+			<a href="#/my" ng-click="footerShow()"><img src="img/jt1.png"/></a>
+			<p>邀请好友得红包</p>
+		</div>
+		<p class="myInviteMain">邀请好友得红包，一起来秀厨艺</p>
+		<ul class="myInviteList">
+			<li><img src="img/e3.png" class="myInvitePic"/><p>微信好友</p><img src="img/jian.png" class="myInvitePic2"/></li>
+			<li><img src="img/pyq.png" class="myInvitePic"/><p>朋友圈</p><img src="img/jian.png" class="myInvitePic2"/></li>
+			<li><img src="img/yxl.png" class="myInvitePic"/><p>通信录</p><img src="img/jian.png" class="myInvitePic2"/></li>
+			<li><img src="img/qqkj.png" class="myInvitePic"/><p>QQ好友</p><img src="img/jian.png" class="myInvitePic2"/></li>
+		</ul>
+		<div class="myInviteMain">推荐达人</div>
+		<div ng-repeat="x in data" class="myInviteCont">
+			<div class="myInvite_top">
+				<img ng-src="{{x.head_img}}" />
+				<div class="myInvitCenter">
+					<p>{{x.nick}}</p>
+					<span>{{x.content}}</span>
+				</div>
+				<mark>关注</mark>
+			</div>
+			<div class="clearfix"></div>
+			<div class="myInvite_bottom">
+				<img ng-src="{{x.image}}" />
+				<img ng-src="{{x.image1}}" />
+				<img ng-src="{{x.image2}}" />
+			</div>
+		</div>
+</div>

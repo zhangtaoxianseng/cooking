@@ -1,0 +1,23 @@
+.myRegister{width: 100%;height:100%;background:#ebc3a9;}
+.regHeader{width:100%;height:3rem;line-height: 3rem;}
+.regHeader .my_jt{width:25%;height:3rem;float:left;display:block;}
+.regHeader .my_jt img{width:1rem;height:1rem;margin-left: 1rem;}
+.regHeader span:nth-child(2){width:50%;height:3rem;display: inline-block;float:left;text-align: center;font-size: 0.8rem;color:#FFFFFF ;}
+.regHeader span:last-child{width:25%;height:3rem;display:inline-block;float:left;text-align: center;font-size: 0.6rem;color:#ff8f5c;}
+.regList{width: 100%;height:6rem;background:#ebc3a9;margin-top:1rem;}
+.regList p{width: 80%;height:3rem;border-bottom:1px solid #FFFFFF;margin: auto;}
+
+.regList p:first-child{position: relative;}
+.regList p input{padding-top: 1rem;}
+.regList p input[type=text]{width: 80%;height:2.5rem;border:none;margin-left:10%;font-size:0.6rem;color: #eeeeee;background:#ebc3a9;}
+.regList p input[type=password]{width: 80%;height:2.5rem;border:none;margin-left:10%;font-size:0.6rem;color: #eeeeee;background:#ebc3a9;text-indent:1rem;}
+.regList p:first-child input[type=text]{text-indent:1rem;}
+.regList p img{position: absolute;left:1rem;top:1rem;width: 1rem;height: 1rem;}
+.myPaw{width:90%;height:2rem;font-size: 0.6rem;margin: 0 auto;text-align:right;line-height: 2rem;color: #ff8f5c;margin-bottom: 0.2rem;}
+#myBtn{width: 80%;height:2rem;margin:auto;border:none;background: #ff8f5c;margin-left: 10%;color: #FFFFFF;font-size:0.7rem;border-radius:5%;display: block;}
+.myRadio{width: 80%;height:2rem;margin:auto;margin-top:1rem;font-size:0.6rem;}
+.myRadio input[type=checkbox]{width: 1rem;height: 1rem;background: #FFFFFF;color: #FFFFFF}
+.myRadio span:last-child{color: #ff8f5c;}
+.myFooter{width: 75%;height: 2rem;margin: auto;}
+.myFooter li{width:25%;height: 2rem;text-align: center;float: left;padding-left: 0.8rem;}
+.myFooter img{width: 2rem;height: 2rem;}

@@ -1,0 +1,24 @@
+.community_header{width: 100%;height: 2.05rem;line-height: 2.05rem;float: left;position: fixed;top: 0;background: white;z-index: 9;}
+.community_header_text{width:8.09rem;margin: auto;text-align: center;color: #454545;height:1.85rem;}
+.community_header_text p{width:33%;float: left;font-size:0.74rem ;height: 2.03rem;}
+.community_header_text p a{display: block;height: 2.03rem;}
+
+#community_newest{width: 100%;background: #efefef;overflow-y: scroll;top: 2.05rem;}
+.newest_list{width:49.9%;height:10.34rem;float: left;margin-top: 0.5rem;}
+.newest_list:nth-child(2n){width:49.9%;height:10.34rem;float: left;margin-top: 0.5rem;margin-left:0.2%;}
+
+.newest_img{width: 100%;height: 8.014rem;float: left;}
+.newest_img img{width: 100%;height: 8.014rem;float: left;}
+
+.newest_text{width: 100%;height: 2.34rem;float: left;background: white;}
+.newest_text_left{width: 2.34rem;height: 2.34rem;float: left;}
+.newest_text_left img{width: 1.7rem;height: 1.7rem;border-radius: 50%;margin:0.25rem;}
+.newest_text_right{width:5.5rem;height: 2.34rem;float: left;padding:0.2rem 0;}
+.newest_top{width:5.5rem;height: 1rem;font-size: 0.7rem;float: left;}
+.newest_top p{font-size:0.7rem;color: #6b696b;}
+.newest_bottom{width: 5.5rem;float: left;}
+.newest_bottom p{color: #adaead;}
+.newest_text_time{font-size:0.6rem;float: left;}
+.newest_ageree{width: 1.5rem;font-size: 0.6rem;float: left;text-align: center;}
+.newest_agereeimg{width: 1rem;height: 1rem;float: left;}
+.newest_agereeimg img{width:0.8rem;height: 0.8rem;float: left;}
